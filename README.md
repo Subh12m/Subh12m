@@ -59,3 +59,8 @@ Here are some ideas to get you started:![Uploading Screenshot (1).png…]()
 </div>
 
 ###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Subh12m/Subh12m/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Subh12m/Subh12m/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Subh12m/Subh12m/output/github-snake.svg" />
+</picture>
