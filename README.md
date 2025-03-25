@@ -19,7 +19,6 @@ Here are some ideas to get you started:![Uploading Screenshot (1).png…]()
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
